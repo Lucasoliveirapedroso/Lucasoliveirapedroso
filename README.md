@@ -7,8 +7,7 @@ Bibliotecas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="45" height="45"/>  
 
 Ferramentas de visualização  
-<img src="https://github.com/Lucasoliveirapedroso/Lucasoliveirapedroso/assets/37088960/6aee3cf9-5231-4fc7-8ec7-32c44488c7b9" width="45" height="45"/>
-
+<img src="https://github.com/Lucasoliveirapedroso/Lucasoliveirapedroso/assets/37088960/b380d45a-4be7-4052-a237-6849de896234" width="45" height="45"/>
 <div>
 <a href="https://github.com/Lucasoliveirapedroso">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasoliveirapedroso&layout=compact&langs_count=7&theme=dracula"/>
