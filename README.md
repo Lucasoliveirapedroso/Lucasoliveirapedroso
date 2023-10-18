@@ -1,4 +1,4 @@
-### Olá sou o Lucas! Estou buscando ingressar na área de dados!
+### Olá sou o Lucas! com foco na área de dados.
 
 - Atualmente estudando e focado nas linguagens:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>  <img src ="https://github.com/Lucasoliveirapedroso/Lucasoliveirapedroso/assets/37088960/1f6dea94-db40-4100-9fca-7fbcec153255"  width="45" height="45"/>
