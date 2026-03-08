@@ -1,8 +1,7 @@
 <div align="center">
-  <h1>Olá, sou o Lucas Oliveira Pedroso! 👋</h1>
-  <h3>⚙️ Engenheiro de Dados | <a href="https://www.linkedin.com/in/lucasoliveirapedroso/" target="_blank">LinkedIn</a></h3>
-</div>
-
+<h3>Olá, sou o Lucas, Engenheiro de Dados! 👨‍💻📊 | <a href="https://www.linkedin.com/in/lucasoliveirapedroso/" target="_blank">LinkedIn</a></h3>
+<div align="center">
+  
 <br/>
 
 <div align="center">
